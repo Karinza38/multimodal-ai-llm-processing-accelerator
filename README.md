@@ -1,4 +1,4 @@
----
+ ---
 name: Azure Multimodal AI & LLM Processing Accelerator (Python)
 description: Build data processing pipelines with Azure AI Services + LLMs
 languages:
